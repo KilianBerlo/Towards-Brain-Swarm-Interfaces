@@ -1,5 +1,5 @@
-# O_Robot
-O_Robot is a project working towards fully functional Brain Swarm Interfaces (BSI). It is meant as proof of concept for future development enabling multiple robots to be controlled using brain signals.
+# Towards Brain Swarm Interfaces
+This is a project working towards fully functional Brain Swarm Interfaces (BSI). It is meant as proof of concept for future development enabling multiple robots to be controlled using brain signals.
 
 [ROBOT documentation](ROBOT/readme.md)
 
