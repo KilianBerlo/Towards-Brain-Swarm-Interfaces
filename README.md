@@ -100,4 +100,4 @@ The folder [EXPERIMENTS](EXPERIMENTS) contains files for the experiments conduct
 - Aaron van Diepen
 - Kilian van Berlo - S2613352 - k.vanberlo@student.utwente.nl
 
-Project Link: https://github.com/KilianBerlo/Microphone-Echo-Filter
+Project Link: https://github.com/KilianBerlo/Towards-Brain-Swarm-Interfaces
