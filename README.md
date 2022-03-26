@@ -98,6 +98,6 @@ The folder [EXPERIMENTS](EXPERIMENTS) contains files for the experiments conduct
 
 ## Contact:
 - Aaron van Diepen
-- Kilian van Berlo - S2613352 - k.vanberlo@student.utwente.nl
+- Kilian van Berlo - S5436737 - k.vanberlo@student.tudelft.nl
 
 Project Link: https://github.com/KilianBerlo/Towards-Brain-Swarm-Interfaces
