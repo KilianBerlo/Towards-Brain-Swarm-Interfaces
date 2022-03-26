@@ -94,3 +94,10 @@ Make sure Vin is connected to 5V (not 3V3 which would cause the brownout detecto
 
 ## Extras:
 The folder [EXPERIMENTS](EXPERIMENTS) contains files for the experiments conducted in the paper: [Towards Brain Swarm Interfaces](towards_brain_swarm_interfaces.pdf)
+
+
+## Contact:
+- Aaron van Diepen
+- Kilian van Berlo - S2613352 - k.vanberlo@student.utwente.nl
+
+Project Link: https://github.com/KilianBerlo/Microphone-Echo-Filter
